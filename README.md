@@ -2,6 +2,7 @@
 - 👀 I’m interested in Devops and related tech
 - 🌱 I’m currently learning Teraform
 - 💞️ I’m looking to collaborate on Azure Devops
+- 📫 How to connect with me: [LinkedIn](https://www.linkedin.com/in/mjohri/)
 - For Interesting Microsoft Azure- Terraform labs, pls follow https://github.com/MicrosoftAZLabs
 
 
